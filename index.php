@@ -1,3 +1,9 @@
+// ==========================================
+// EDP Activity 7 - Collaborative Update
+// Contributed by: Collaborator (Email2 -> arvieDK)
+// Index.php Purpose: Primary entry point for CAMS.
+// ==========================================
+
 <?php
 session_start();
 
